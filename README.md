@@ -1,0 +1,1 @@
+Ongoing collection of notes on DOM manipulation and language-agnostic frontend things. 
